@@ -1,7 +1,5 @@
 # Velion
-This is a website game, made using TS, HTML and CSS.
-Hosted through nodejs, threejs.
-
+This is a website game, made using TS, Threejs, HTML and CSS.
 
 ## Credit for resources:
 
